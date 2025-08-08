@@ -10,7 +10,7 @@ const Card = () => {
         <h2 className="text-2xl text-[#000] font-semibold mb-2">
           PC Game Controller
         </h2>
-        <p className="text-gray-700 mb-4 text-xl">$24.99</p>
+        <p className="text-gray-700 mb-4 text-lg">$24.99</p>
         <label htmlFor="colour-options" className="text-[#000]">
           Select a colour:
         </label>
